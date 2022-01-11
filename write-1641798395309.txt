@@ -1,0 +1,5 @@
+mongo template
+current rows: 1049155
+time to save 200000 rows with byte size 128: 5275 millis
+current rows after insert: 1249156
+

@@ -1,0 +1,4 @@
+current rows: 0
+time to save 10 rows: 51 millis
+current rows after insert: 10
+

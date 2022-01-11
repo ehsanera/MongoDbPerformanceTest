@@ -1,0 +1,1 @@
+time to fetch all rows: 52664 millis

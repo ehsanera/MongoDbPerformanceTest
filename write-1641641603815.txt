@@ -1,0 +1,4 @@
+current rows: 700010
+time to save 500000 rows: 18411 millis
+current rows after insert: 1200010
+

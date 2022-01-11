@@ -1,0 +1,3 @@
+reactive mongo template
+current rows: MonoOnErrorResume
+time to fetch by message: 136 millis

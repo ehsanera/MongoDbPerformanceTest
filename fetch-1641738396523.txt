@@ -1,0 +1,3 @@
+mongo template
+current rows: 1400006
+time to fetch by message: 1933949 millis

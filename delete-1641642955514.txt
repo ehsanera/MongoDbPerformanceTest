@@ -1,0 +1,2 @@
+current rows: 1500000
+time to delete all: 94028 millis

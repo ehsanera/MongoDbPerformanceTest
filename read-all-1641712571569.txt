@@ -1,0 +1,2 @@
+current rows: 700002
+time to fetch all rows: 6849 millis

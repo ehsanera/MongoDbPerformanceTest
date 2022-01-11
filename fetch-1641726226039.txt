@@ -1,0 +1,3 @@
+reactive mongo template
+current rows: 600003
+time to fetch by message: 914201 millis

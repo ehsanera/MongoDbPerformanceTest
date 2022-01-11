@@ -1,0 +1,5 @@
+reactive mongo template
+current rows: 400002
+time to save 200000 rows with byte size 1024: 9035 millis
+current rows after insert: 600003
+

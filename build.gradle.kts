@@ -20,6 +20,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-data-mongodb:2.6.2")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0-native-mt")
 }
 
 tasks.withType<KotlinCompile> {
@@ -31,4 +32,11 @@ tasks.withType<KotlinCompile> {
 
 tasks.withType<Test> {
     useJUnitPlatform()
+}
+
+tasks.create("release").dependsOn(tasks.clean, tasks.jar).doLast {
+    copy {
+        from(configurations.runtimeClasspath)
+        into("$buildDir/libs")
+    }
 }

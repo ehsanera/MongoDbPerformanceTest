@@ -1,0 +1,2 @@
+current rows: 200001
+time to count all rows: 195 millis

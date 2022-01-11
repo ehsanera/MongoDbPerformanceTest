@@ -1,0 +1,4 @@
+current rows: 0
+time to save 200000 rows with byte size 1024: 7860 millis
+current rows after insert: 200001
+

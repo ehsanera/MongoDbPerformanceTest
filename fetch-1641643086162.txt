@@ -1,0 +1,2 @@
+current rows: 500001
+time to fetch by message: 146 millis

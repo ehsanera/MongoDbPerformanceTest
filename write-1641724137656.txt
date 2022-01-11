@@ -1,0 +1,5 @@
+reactive mongo template
+current rows: MonoOnErrorResume
+time to save 200000 rows with byte size 1024: 58 millis
+current rows after insert: MonoOnErrorResume
+
